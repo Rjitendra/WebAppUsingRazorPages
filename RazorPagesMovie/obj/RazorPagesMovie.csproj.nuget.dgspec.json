@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
+    "C:\\Jitendra\\Workplace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {
+    "C:\\Jitendra\\Workplace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "projectUniqueName": "C:\\Jitendra\\Workplace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
         "projectName": "RazorPagesMovie",
-        "projectPath": "C:\\Workspace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
-        "packagesPath": "C:\\Users\\jbehera.BRIDGETREE\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\My Project\\RazorPagesMovie\\obj\\",
+        "projectPath": "C:\\Jitendra\\Workplace\\My Project\\RazorPagesMovie\\RazorPagesMovie.csproj",
+        "packagesPath": "C:\\Users\\jbehera\\.nuget\\packages\\",
+        "outputPath": "C:\\Jitendra\\Workplace\\My Project\\RazorPagesMovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jbehera.BRIDGETREE\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jbehera\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
